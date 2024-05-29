@@ -224,7 +224,7 @@ button a{
     }
 
 }
-
+/*------------------------GALERIA----------------------------------*/
 section{
     display: flex;
     width: 600px;
@@ -246,10 +246,12 @@ section img:hover{
     opacity: 1;
     filter: contrast(120%);
 }
+/*--------------TRABAJOS-----------*/
 
-form{
+form h2{
     background-color: chocolate;
     border: 0cm;
     padding: 5%;
     border-radius: 25px;
+    text-align: center;
 }
