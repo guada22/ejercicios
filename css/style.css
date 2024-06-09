@@ -310,7 +310,6 @@ h2{
   font-family: "Major Mono Display", monospace;
   font-size: 40px;
   line-height: 1.5cap;
-  text-wrap: balance;
   color: white;
   margin-bottom: 20px;
 }
@@ -320,7 +319,6 @@ figcaption {
   font-size: 18px;
   font-weight: 400;
   line-height: 2cap;
-  text-wrap: pretty;
   padding-left: 30px;
   border-left: 1px solid white;
   color: #bbb;
