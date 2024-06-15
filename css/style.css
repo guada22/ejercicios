@@ -139,6 +139,12 @@
     font-family:'Ubuntu';
     padding: 20px;
     list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .gal h2{
@@ -458,4 +464,12 @@ figcaption {
   figcaption {
     font-size: 16px;
   }
+}
+/*---------pagina de trabajos-----*/
+table ul{
+  border-radius: 25px;
+  background-position: center;
+  background: scroll;
+  color: transparent;
+  display: flex;
 }
