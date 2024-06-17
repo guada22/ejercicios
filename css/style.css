@@ -466,10 +466,3 @@ figcaption {
   }
 }
 /*---------pagina de trabajos-----*/
-table ul{
-  border-radius: 25px;
-  background-position: center;
-  background: scroll;
-  color: transparent;
-  display: flex;
-}
