@@ -207,7 +207,7 @@ button a{
         display: flex;
         flex-direction: column;
         position: fixed;
-        top: 4rem;
+        top: -1rem 2;
         left: 100%;
         transition: all 1s;
     }
@@ -466,10 +466,3 @@ figcaption {
   }
 }
 /*---------pagina de trabajos-----*/
-table ul{
-  border-radius: 25px;
-  background-position: center;
-  background: scroll;
-  color: transparent;
-  display: flex;
-}
